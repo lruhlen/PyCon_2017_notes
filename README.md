@@ -9,7 +9,8 @@
 	+ Speakers: Ying Li, David Lawrence
 4. Solid Snakes or: How to take 5 weeks of vacation
 	+ Speaker: Hynek Schlawack
-5. ???
+5. Factory Automation with Python-- Stories about  robots, serial ports, and parbode readers
+   + Speaker: Jonas Neubert
 6. Python from space: analyzing open satellite imagery using the phython ecosystem
 	+ Speaker: Katherine Scott
 7. Dask: a pythonic distributed data science framework
