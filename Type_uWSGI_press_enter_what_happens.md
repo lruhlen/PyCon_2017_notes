@@ -8,7 +8,7 @@ uWSGI: the thing you use in addtion to Flask or Django to deploy a service to th
 2. How does uwsgi handle networking?
 3. Why should you use it?
 
-##1. How does uWSGI handles processes?
+## 1. How does uWSGI handles processes?
 
 ### Illustrative example: Catserve (Cats as a Service)
 Visit the site, get a picture of a cat.  Hit refresh, get a _new_ picture of a _new_ cat!
@@ -27,7 +27,7 @@ Okay, so: have uwsgi spawn 2 instead of 1 python worker processes.
 
 (Aside/note: are the python workers spawned from uwsgi children of the uwsgi process?)
 
-##2. How does uWSGI handle networking?
+## 2. How does uWSGI handle networking?
 
 From the same cmd line output mentioned above:
 
@@ -53,7 +53,7 @@ uWSGI & all forked python procs all have access to the same file descriptors/soc
 
 All python children processes 'compete' to get each request coming into the main uWSGI socket.  Only one wins.  The rest go back to the `listen()` state.
 
-##3. Why use uWSGI?
+## 3. Why use uWSGI?
 
 1. Graceful code reloading
    + i.e. roll out new app w/o any noticeable downtime from the user side
