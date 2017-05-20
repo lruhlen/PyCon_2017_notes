@@ -17,5 +17,10 @@
 	Speaker: Jessica Lundin
 
 ## Saturday
+1. An introduction to reinforcement learning **(WATCH THE VIDEO OF THIS)**
+   + Speaker: Jessica Forde
+2. How to make a good Python API
+   + Speaker: Flavio Juvenal
+3. 
 
 ## Sunday
