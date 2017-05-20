@@ -13,9 +13,7 @@
    + Speaker: Jonas Neubert
 6. Python from space: analyzing open satellite imagery using the phython ecosystem
 	+ Speaker: Katherine Scott
-7. Dask: a pythonic distributed data science framework
-	+ Speaker: Matthew Rocklin
-8. Snakes on a hyperplane: python machine learning in production
+7. Snakes on a hyperplane: python machine learning in production
 	Speaker: Jessica Lundin
 
 ## Saturday
