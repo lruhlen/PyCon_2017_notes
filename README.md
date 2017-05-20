@@ -1,5 +1,7 @@
 # List of talks attended:
 
+# NOTE TO SELF: ADD LINKS TO THE TALK VIDEOS AND TALK NOTES IN THIS DOCUMENT.
+
 ## Friday
 1. In-memory event resequencing: Realistic testing for impossible bugs
 	+ Speaker: Glyph
@@ -19,8 +21,13 @@
 ## Saturday
 1. An introduction to reinforcement learning **(WATCH THE VIDEO OF THIS)**
    + Speaker: Jessica Forde
-2. How to make a good Python API
+2. How to make a good Python library API
    + Speaker: Flavio Juvenal
-3. 
+3. Library UX: Using abstraction towards friendlier APIs
+   + Speaker: Mali Akmanalp
+4. Yes, it's time to learn regular expressions
+   + Speaker: Al Sweigart
+5. Cython as a secret weapon for efficiency
+   + Speaker: Alex Orlov
 
 ## Sunday
